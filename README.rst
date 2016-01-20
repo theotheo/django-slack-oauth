@@ -41,6 +41,7 @@ Set up
     # Defaults
     SLACK_SCOPE = 'identify,read,post'
     SLACK_SUCCESS_REDIRECT_URL = '/'
+    SLACK_TEAM = ''
     
     # These are in case slack team decides
     # to change it's endpoints

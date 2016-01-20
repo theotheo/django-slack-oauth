@@ -11,6 +11,7 @@ default_settings = {
     'SLACK_SUCCESS_REDIRECT_URL': '/',
 
     'SLACK_SCOPE': 'identify,read,post',
+    'SLACK_TEAM': ''
 }
 
 
